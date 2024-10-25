@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\ql_quanan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_qlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_qlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_qlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_qlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\ql_quanan\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_mainquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_mainquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_mainquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_mainquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_mainquanly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_mainquanly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_mainnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_mainnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\ql_quanan\\form_qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|c:\\users\\phaml\\source\\repos\\ql_quanan\\ql_quanan\\form_mainnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6C44DE-4AA0-425C-9FDE-88F7A61ADD6F}|QL_QuanAn\\QL_QuanAnGUI.csproj|solutionrelative:ql_quanan\\form_mainnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Program.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Program.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Program.cs*",
+              "RelativeToolTip": "QL_QuanAn\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:25:11.552Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_QLMenu.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_QLMenu.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_QLMenu.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_QLMenu.cs",
+              "RelativeToolTip": "QL_QuanAn\\Form_QLMenu.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwHEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:09:05.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_QLMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_QLMenu.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_QLMenu.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_QLMenu.cs [Design]",
+              "RelativeToolTip": "QL_QuanAn\\Form_QLMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:09:02.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_DangNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_DangNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_DangNhap.Designer.cs",
+              "RelativeToolTip": "QL_QuanAn\\Form_DangNhap.Designer.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAYwMcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:05:18.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_MainQuanLy.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainQuanLy.Designer.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_MainQuanLy.Designer.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainQuanLy.Designer.cs",
+              "RelativeToolTip": "QL_QuanAn\\Form_MainQuanLy.Designer.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAYwC4BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:03:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_HoaDon.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_HoaDon.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_HoaDon.cs",
+              "RelativeToolTip": "QL_QuanAn\\Form_HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:56:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_HoaDon.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_HoaDon.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_HoaDon.cs [Design]",
+              "RelativeToolTip": "QL_QuanAn\\Form_HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:56:42.394Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_QLNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_QLNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_QLNhanVien.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_QLNhanVien.cs [Design]",
+              "RelativeToolTip": "QL_QuanAn\\Form_QLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:47:16.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_KhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_KhachHang.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_KhachHang.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_KhachHang.cs [Design]",
+              "RelativeToolTip": "QL_QuanAn\\Form_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:47:10.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_MainQuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainQuanLy.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_MainQuanLy.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainQuanLy.cs",
+              "RelativeToolTip": "QL_QuanAn\\Form_MainQuanLy.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:28:12.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_MainQuanLy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainQuanLy.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_MainQuanLy.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainQuanLy.cs [Design]",
+              "RelativeToolTip": "QL_QuanAn\\Form_MainQuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:28:06.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_DangNhap.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_DangNhap.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_DangNhap.cs [Design]",
+              "RelativeToolTip": "QL_QuanAn\\Form_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:25:48.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_DangNhap.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_DangNhap.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_DangNhap.cs",
+              "RelativeToolTip": "QL_QuanAn\\Form_DangNhap.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:26:17.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_QLNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_QLNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_QLNhanVien.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_QLNhanVien.cs",
+              "RelativeToolTip": "QL_QuanAn\\Form_QLNhanVien.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv58AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:35:32.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form_MainNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_MainNhanVien.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainNhanVien.cs",
+              "RelativeToolTip": "QL_QuanAn\\Form_MainNhanVien.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAjwEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:37:04.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_MainNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_QuanAn\\Form_MainNhanVien.cs",
+              "ToolTip": "C:\\Users\\phaml\\source\\repos\\QL_QuanAn\\QL_QuanAn\\Form_MainNhanVien.cs [Design]",
+              "RelativeToolTip": "QL_QuanAn\\Form_MainNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:47:48.024Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

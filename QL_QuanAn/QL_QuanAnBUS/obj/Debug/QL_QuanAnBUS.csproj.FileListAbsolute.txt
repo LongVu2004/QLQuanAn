@@ -1,0 +1,17 @@
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\QL_QuanAnBUS.exe.config
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\QL_QuanAnBUS.exe
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\QL_QuanAnBUS.pdb
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\EntityFramework.dll
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\QL_QuanAnDAL.exe
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\QL_QuanAnDAL.pdb
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\QL_QuanAnDAL.exe.config
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\EntityFramework.xml
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\obj\Debug\QL_QuanAnBUS.csproj.AssemblyReference.cache
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\obj\Debug\QL_QuanAnBUS.Properties.Resources.resources
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\obj\Debug\QL_QuanAnBUS.csproj.GenerateResource.cache
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\obj\Debug\QL_QuanAnBUS.csproj.CoreCompileInputs.cache
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\obj\Debug\QL_QuanA.B4FCEA1D.Up2Date
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\obj\Debug\QL_QuanAnBUS.exe
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnBUS\obj\Debug\QL_QuanAnBUS.pdb

@@ -1,0 +1,14 @@
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\bin\Debug\QL_QuanAnDAL.exe.config
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\bin\Debug\QL_QuanAnDAL.exe
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\bin\Debug\QL_QuanAnDAL.pdb
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\bin\Debug\EntityFramework.dll
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\bin\Debug\EntityFramework.xml
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\obj\Debug\QL_QuanAnDAL.csproj.AssemblyReference.cache
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\obj\Debug\QL_QuanAnDAL.Properties.Resources.resources
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\obj\Debug\QL_QuanAnDAL.csproj.GenerateResource.cache
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\obj\Debug\QL_QuanAnDAL.csproj.CoreCompileInputs.cache
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\obj\Debug\QL_QuanA.4207A0D2.Up2Date
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\obj\Debug\QL_QuanAnDAL.exe
+C:\Users\phaml\source\repos\QL_QuanAn\QL_QuanAnDAL\obj\Debug\QL_QuanAnDAL.pdb
